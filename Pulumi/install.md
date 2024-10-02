@@ -26,7 +26,17 @@ To install pulumi on macOS
  # Step 2: Setting Up Pulumi in Your Environment
 
 ## Step 2.1: Install Pulumi
-Pulumi is already pre-installed in this environment. You can verify the installation by running the following command:
+To install pulumi on linux you should run
+```bash
+curl -fsSL https://get.pulumi.com | sh
+```
+or 
+```bash
+brew install pulumi
+```
+for mac
+
+You can verify the installation by running the following command:
 
 ```bash
 pulumi version
