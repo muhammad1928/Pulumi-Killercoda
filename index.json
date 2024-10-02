@@ -1,5 +1,5 @@
 {
-    "title": "Pulumi Lab",
+    "title": "Pulumi Killercoda",
     "description": "This is a simple Pulumi lab",
     "details": {
         "intro": {
@@ -9,17 +9,21 @@
         "steps": 
         [{
             "title":"Download Pulumi",
-            "text":"step1.md"
+            "text":"install.md"
         },
         {
-            "title":"Steps 2",
-            "text":"step2.md"
+            "title":"Verify Pulumi",
+            "text":"verify.md"
+        },
+        {
+            "title":"Deployment",
+            "text":"setup.md"
         }
     ],
         "finish": 
         {
             "title":"Finish",
-            "text":"finish.md"
+            "text":"conclusion.md"
         }
     },
     "backend": {
